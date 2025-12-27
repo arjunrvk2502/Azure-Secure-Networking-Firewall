@@ -39,7 +39,7 @@ This project demonstrates a secure Azure Virtual Network architecture using:
 
 ## 🚀 Setup Instructions
 
-See [`azure-deploy-notes.md`](azure-deploy-notes.md) for full deployment steps including:
+See [`Azure-Deploy-Notes.md`](Azure-Deploy-Notes.md) for full deployment steps including:
 - VNet and subnet creation
 - Firewall and Bastion setup
 - DNAT rule configuration
