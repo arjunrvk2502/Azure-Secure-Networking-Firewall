@@ -43,8 +43,7 @@ See [`azure-deploy-notes.md`](azure-deploy-notes.md) for full deployment steps i
 - VNet and subnet creation
 - Firewall and Bastion setup
 - DNAT rule configuration
-- NGINX installation (based on [Azure Zero to Hero Day-07](https://github.com/iam-veeramalla/Azure-zero-to-hero/blob/main/Day-07/01-nginx-install.md))
-
+- NGINX installation [`nginx-install.md`](nginx-install.md)
 ---
 
 ## 📸 Demo
